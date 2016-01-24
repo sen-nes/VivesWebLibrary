@@ -1,0 +1,14 @@
+be\vives\web\library\services\AuthorService.class
+be\vives\web\library\services\BookService.class
+be\vives\web\library\models\Author.class
+be\vives\web\library\dao\impl\AuthorDAOImpl.class
+be\vives\web\library\models\Author_.class
+be\vives\web\library\servlets\ServletNewBook.class
+be\vives\web\library\models\Book.class
+be\vives\web\library\servlets\ServletBooks.class
+be\vives\web\library\models\Book_.class
+be\vives\web\library\dao\AuthorDAO.class
+be\vives\web\library\dao\BookDAO.class
+be\vives\web\library\dao\BaseDAO.class
+be\vives\RestConfig.class
+be\vives\web\library\dao\impl\BookDAOImpl.class

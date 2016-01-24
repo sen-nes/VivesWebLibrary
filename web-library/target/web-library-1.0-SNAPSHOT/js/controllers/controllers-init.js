@@ -1,0 +1,1 @@
+angular.module('webLibrary.controllers', ['webLibrary.services']);
